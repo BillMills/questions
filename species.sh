@@ -1,4 +1,4 @@
-#This line added to my original version
+#We aded a different line in the second copy
 #TODO: provide links to more info on animals
 for filename in $*
 do
