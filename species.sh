@@ -1,6 +1,5 @@
 #This line added to my original version
 #TODO: provide links to more info on animals
-#also list kingdom, phylum, class
 for filename in $*
 do
   echo '/////////////'
